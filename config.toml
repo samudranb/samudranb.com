@@ -1,4 +1,4 @@
-baseurl         = "https://www.samudranb.com/"
+baseurl         = "https://samudranb.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "samudranb"

@@ -1,4 +1,4 @@
-baseurl         = "www.samudranb.com/"
+baseurl         = "https://www.samudranb.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = "samudranb"
@@ -14,7 +14,7 @@ googleAnalytics = "UA-85626859-1"
 
   cover       = "img/blog-cover.jpg"
   description = "About instantiating and being a being"
-  metaDescription = ""
+  metaDescription = "Thoughts from Samudra"
   customCSS = []
   RSSLink = ""
 

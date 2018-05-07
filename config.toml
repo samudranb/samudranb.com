@@ -32,7 +32,7 @@ googleAnalytics = "UA-85626859-1"
   showSupport = true
 
   author = "Samudra"
-  authorAvatar = "img/ghost-icon.png"
+  authorAvatar = "img/snb_icon.png"
   authorLocation = "Earth, for now."
   authorWebsite = "https://samudranb.github.io"
   authorDescription = "An instantiating being."

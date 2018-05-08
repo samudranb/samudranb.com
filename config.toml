@@ -6,6 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
 googleAnalytics = "UA-85626859-1"
+title = "Samudra's thoughts on"
 
 [params]
   title       = "Samudra Neelam Bhuyan"

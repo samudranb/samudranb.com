@@ -1,13 +1,12 @@
 ---
 title: "Spoiler Free Review of My Favorite Tv Police Procedural Comedy Episode Ever"
-date: 2018-06-20T15:58:45-07:00
-draft: true
+date: 2018-06-20T17:01:45-07:00
+draft: false
 linkTitle: "spoiler-free-review-of-my-favorite-tv-police-procedural-comedy-episode-ever"
 subTitle: "spoiler-free-review-of-my-favorite-tv-police-procedural-comedy-episode-ever"
 image: "https://farm2.staticflickr.com/1770/29056326328_6886fd1bc5_o_d.jpg"
-description: "Spolier alert - it is Brooklyn Nine Nine S05 E14"
 tags: [
-    tv reviews,
+    tv, reviews,
     tv show,
     police procedural,
     comedy,
@@ -16,8 +15,9 @@ tags: [
 categories: [
     reviews
 ]
+description: "Spoiler alert - it is Brooklyn Nine Nine S05 E14"
 ---
-Brooklyn 99 S05 E14 has got to be one of the best TV Comedy episodes ever. 
+Brooklyn Nine Nine S05 E14 has got to be one of the best TV Comedy episodes ever. 
 
 It’s about triumph of Good over Evil. It’s about honest cops getting the bad guy using legal means.
 

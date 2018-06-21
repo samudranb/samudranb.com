@@ -1,11 +1,9 @@
 ---
 date: 2018-05-12T15:07:06-07:00
 draft: false
-
 title: "A Penny For My ADD Thoughts"
 linkTitle: "a-penny-for-my-add-thoughts"
 subTitle: "If I wrote a book, it would be called APFMAT. And I'd sell it for a penny."
-
 image: "https://farm4.staticflickr.com/3617/3559803363_48fb552f74_o.jpg"
 description: "If I wrote a book, it would be called APFMAT. And I'd sell it for a penny."
 tags: [

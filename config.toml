@@ -1,69 +1,35 @@
-baseurl         = "http://www.samudranb.com/"
-theme           = "casper-two"
-languageCode    = "en-US"
+baseurl = "http://www.samudranb.com/"
+canonifyurls = true
 disqusShortname = "samudranb"
-paginate        = 6
-#SectionPagesMenu = "main"
-canonifyurls    = true
 googleAnalytics = "UA-85626859-1"
+languageCode = "en-US"
+paginate = 6
+theme = "casper-two"
 title = "Samudra's thoughts on"
-
-[params]
-  title       = "Samudra Neelam Bhuyan"
-  subtitle    = "Being Instantiating."
-  copyright   = "© 2018"
-
-  cover       = "img/blog-cover.jpg"
-  description = "About instantiating and being a being"
-  metaDescription = "Thoughts from Samudra"
-  customCSS = []
-  RSSLink = ""
-
-  twitterName = "samudranb"
-  # fbName = "fakeghost"
-  githubName = "samudranb"
-  linkedinName = "samudra"
-  mediumName = "samudranb"
-
-  # logo = "hugo-logo.png"
-  # orgName = "EM"
-  # orgWebsite = "https://www.telematika.org"
-  # orgDescription = "Here is a description placeholder for your org"
-
-  showSupport = true
-
-  author = "Samudra"
-  authorAvatar = "img/snb_icon.png"
-  authorLocation = "Earth, for now."
-  authorWebsite = "https://samudranb.github.io"
-  authorDescription = "An instantiating being."
-
-  pageNotFoundTitle = "404 - Page not found"
-
-  #casper or caspertwo
-  singleViewStyle = "casper"
-
-[permalinks]
-  post = "/post/:slug/"
-
 [[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 200
-
-# [[menu.main]]
-#   name = "Go"
-#   url = "/tags/golang/"
-#   weight = 100
-
-# [[menu.main]]
-#   name = "Categories"
-#   url = "/categories/"
-#   weight = 99
-
-# [[menu.main]]
-#   name = "External"
-#   url = "https://google.com/"
-#   weight = 95
-
-
+name = "Home"
+url = "/post/"
+weight = 1
+[params]
+RSSLink = ""
+author = "Samudra"
+authorAvatar = "img/snb_icon.png"
+authorDescription = "An instantiating being."
+authorLocation = "Earth, for now."
+authorWebsite = "https://samudranb.github.io"
+copyright = "© 2018"
+cover = "img/blog-cover.jpg"
+customCSS = []
+description = "About instantiating and being a being"
+githubName = "samudranb"
+linkedinName = "samudra"
+mediumName = "samudranb"
+metaDescription = "Thoughts from Samudra"
+pageNotFoundTitle = "404 - Page not found"
+showSupport = true
+singleViewStyle = "casper"
+subtitle = "Being Instantiating."
+title = "Samudra Neelam Bhuyan"
+twitterName = "samudranb"
+[permalinks]
+post = "/post/:slug/"

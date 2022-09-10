@@ -1,4 +1,4 @@
-baseurl = "http://www.samudranb.com/"
+baseurl = "https://www.samudranb.com/"
 canonifyurls = true
 disqusShortname = "samudranb"
 googleAnalytics = "UA-85626859-1"
